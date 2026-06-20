@@ -19,6 +19,7 @@ func main() {
 		return
 	}
 
+	// saving flags as inferred vars
 	flags := args[0]
 	message := args[1]
 
