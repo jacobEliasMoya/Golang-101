@@ -17,7 +17,7 @@ func main() {
 	if len(args) < 3 {
 		fmt.Println("Not enough args present")
 		return
-	}
+	} 
 
 	// saving flags as inferred vars
 	flags := args[0]
